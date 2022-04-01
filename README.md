@@ -14,6 +14,7 @@ INSTALLATION -----------------------------
 9. run php artisan migrate or php artisan migrate:fresh --seed
 10. if you run only php artisan migrate please run php artisan db:seed to populate some dummy data maximun of 50 records
 11. optional: npm run watch
+12. php artisan serve
 
 CREDENTIALS ------------------------------
 
